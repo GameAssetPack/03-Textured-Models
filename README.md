@@ -9,3 +9,4 @@ This is a course is about getting your 3D Models from Blender into Unity.
 
 ## TX00 Section 3 Introduction
 ## TX01 What Is A Texture?
+## TX02 Image Fundamentals
