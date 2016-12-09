@@ -12,3 +12,4 @@ This is a course is about getting your 3D Models from Blender into Unity.
 ## TX02 Image Fundamentals
 ## TX03 A Simple Texture
 ## TX04 UV Mapping
+## TX05 Normals
