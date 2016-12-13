@@ -15,3 +15,4 @@ This is a course is about getting your 3D Models from Blender into Unity.
 ## TX05 Normals
 ## TX06 Normal Maps
 ## TX07 Height Maps
+## TX08 Naming Conventions
