@@ -18,3 +18,4 @@ This is a course is about getting your 3D Models from Blender into Unity.
 ## TX08 Naming Conventions
 ## TX09 Unwrapping A Model
 ## TX10 Mapping A Texture
+## TX11 Mapping Multiple Textures
