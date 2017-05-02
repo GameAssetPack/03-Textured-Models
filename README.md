@@ -112,6 +112,3 @@ In This Video…
 ### Section 3 Wrap Up ###
 
 Michael and Ben Wrap up Section 3 of the 3D Model Mastery
-
----
-Find out more about our [3D Model Mastery Course](https://www.udemy.com/unityassets/?couponCode=GitHubDiscount).
